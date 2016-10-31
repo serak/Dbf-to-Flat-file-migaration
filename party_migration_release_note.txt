@@ -1,0 +1,14 @@
+-first release date
+-party common migration added
+-delimiter is set to pipe('|')
+-party detail is added
+-ignore if balance is zero is added
+-empty balance field migration fixed( set to be skipped if the balance field is empty)
+-added grand father name to be last name if gname doesnot exist for party extraction from current
+-od_limit as debit limit
+-migrated loan 01175 and 01180 as overdrafts
+-shortname as full name
+-loan balance as debit limit
+-loan accrued interest to acrued debit interest
+-fixed loan interest rate (*100) as debit interest rate
+-fixed OD interest rate as debit interest rate

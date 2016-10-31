@@ -1,0 +1,16 @@
+acctno
+date_1
+start_1
+endchk_1
+date_2
+start_2
+endchk_2
+date_3
+start_3
+endchk_3
+date_4
+start_4
+endchk_4
+date_5
+start_5
+endchk_5
